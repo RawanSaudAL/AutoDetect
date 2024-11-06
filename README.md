@@ -1,5 +1,5 @@
 
-# One-Class Anomaly Detection for Credit Card Fraud Detection
+# AutoDetect: One-Class Anomaly Detection for Credit Card Fraud
 
 This project implements a one-class autoencoder-based anomaly detection system to identify fraudulent credit card transactions. By training solely on normal transactions, the model learns to detect anomalies, allowing for accurate fraud detection even in highly imbalanced datasets.
 
