@@ -22,19 +22,19 @@ Dataset: A credit card transaction dataset from Kaggle, containing 284,315 norma
 
 # Results
 
-Accuracy: 99.62%
-Precision: 73.22%
-Recall: 87.80%
-F1 Score: 79.85%
+1. Accuracy: 99.62%
+2. Precision: 73.22%
+3. Recall: 87.80%
+4. F1 Score: 79.85%
 
 The model demonstrated high accuracy and recall, indicating effective fraud detection with a trade-off in false positives.
 
 # Strengths and Limitations
 
-Strengths: 
+1. Strengths: 
   - High recall in identifying fraudulent transactions.
   - Adaptability to new fraud patterns with minimal labeled data.
-Limitations: 
+2. Limitations: 
   - Relatively lower precision, resulting in a higher false positive rate.
 
 # Future Enhancements
